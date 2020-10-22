@@ -1,0 +1,7 @@
+D:\Даник\2 курс\3 семестр\ООП\Лабораторные работы\7\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+D:\Даник\2 курс\3 семестр\ООП\Лабораторные работы\7\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+D:\Даник\2 курс\3 семестр\ООП\Лабораторные работы\7\Project2\Project2\bin\Debug\Project2.exe.config
+D:\Даник\2 курс\3 семестр\ООП\Лабораторные работы\7\Project2\Project2\bin\Debug\Project2.exe
+D:\Даник\2 курс\3 семестр\ООП\Лабораторные работы\7\Project2\Project2\bin\Debug\Project2.pdb
+D:\Даник\2 курс\3 семестр\ООП\Лабораторные работы\7\Project2\Project2\obj\Debug\Project2.exe
+D:\Даник\2 курс\3 семестр\ООП\Лабораторные работы\7\Project2\Project2\obj\Debug\Project2.pdb
